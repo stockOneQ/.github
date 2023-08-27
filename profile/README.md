@@ -13,12 +13,16 @@
 
 그래서 기획했습니다. 기존 ERP 서비스와는 다른, 재고 관리가 편리한, 매장 운영을 원활히 할 수 있는 서비스를요.
 
+<br><br>
+
 
 ## **What is Problem?**
 <img width="100%" src="https://github.com/stockOneQ/.github/assets/139538765/45c272b3-b2fb-49a2-bc05-ac1e1d9e5541"/>
 <img width="100%" src="https://github.com/stockOneQ/.github/assets/139538765/034675c9-87aa-4939-9cc9-27dd60d7608f"/>
 <img width="100%" src="https://github.com/stockOneQ/.github/assets/139538765/30d6b515-30b4-4e15-93ea-8dd5ea5ca0ec"/>
 <img width="100%" src="https://github.com/stockOneQ/.github/assets/139538765/d633b852-a8e9-4f36-ac58-52fa85f97755"/>
+
+<br><br>
 
 ## **StockOneQ’s Solution**
 <img width="100%" src="https://github.com/stockOneQ/.github/assets/139538765/3f9ca9c7-f253-4ece-a471-e5be1457b605"/>
