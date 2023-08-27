@@ -1,4 +1,4 @@
-<img width="100" src="https://github.com/stockOneQ/.github/assets/139538765/a2765f8d-52bb-4ded-8ad6-abc97fba26ee"/>
+<img width="100%" src="https://github.com/stockOneQ/.github/assets/139538765/a2765f8d-52bb-4ded-8ad6-abc97fba26ee"/>
 
 ## **스톡원큐 (StockOneQ)**
 
