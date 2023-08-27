@@ -20,6 +20,9 @@
 <img width="100%" src="https://github.com/stockOneQ/.github/assets/139538765/30d6b515-30b4-4e15-93ea-8dd5ea5ca0ec"/>
 <img width="100%" src="https://github.com/stockOneQ/.github/assets/139538765/d633b852-a8e9-4f36-ac58-52fa85f97755"/>
 
+## **StockOneQ’s Solution**
+<img width="100%" src="https://github.com/stockOneQ/.github/assets/139538765/3f9ca9c7-f253-4ece-a471-e5be1457b605"/>
+
 
 
 
